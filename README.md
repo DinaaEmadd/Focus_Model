@@ -21,7 +21,5 @@ The system can be applied in:
 - ✅ **Video Output** with bounding boxes, head pose, and focus labels  
 - ✅ **Overall Focus Metric** → average score over full video  
 
----
 
-## 📂 Project Structure
 
